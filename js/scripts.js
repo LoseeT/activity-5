@@ -1,7 +1,7 @@
 (function(){
     var data = [
         {
-            name: 'stylelint',
+            name: 'Stylelint',
             description: 'Stylelint allows CSS, SCSS, and Less to have different languages enabled in the program.',
             author: 'stylelint',
             url: 'https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint',
@@ -11,7 +11,7 @@
             selector: 'p1'
         },
         {
-            name: 'css peek',
+            name: 'CSS peek',
             description: 'CSS Peek allows HTML to show the creator what words are being affected by CSS.',
             author: 'Pranay Prakash',
             url: 'https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek',
